@@ -78,3 +78,10 @@ layout: default
 
 　　*最后啰嗦一句*：当地人说“top-up card”比“SIM card”更易触发店员理解，试试看？  
 　　圣文森特的通信网络像它的火山——表面平静底下暗流涌动，但掌握规律后，碧海蓝天的朋友圈大片绝不会迟到。
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Saint Vincent And The Grenadines eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/saint-vincent-and-the-grenadines-data-plans)
